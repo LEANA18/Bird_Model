@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725202064087",
+    "project_id": "bird-species-ae2ac",
+    "storage_bucket": "bird-species-ae2ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725202064087:android:af6f51c4dafda74c0d5692",
+        "android_client_info": {
+          "package_name": "com.example.bird_species"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0QM1ojfMR3OysB1CqICALsI-Pv_PlVPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
